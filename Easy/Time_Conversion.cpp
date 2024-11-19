@@ -7,7 +7,7 @@ Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
 Example
 
 
-Return '12:01:00'.
+Return '12:01:00'
 
 
 Return '00:01:00'.
